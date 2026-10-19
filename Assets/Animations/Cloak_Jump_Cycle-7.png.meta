@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 997a7e2ddd0634f7bab5bb294a739e7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -222176744394838295
+    second: Cloak_Jump_Cycle-7_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.04
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloak_Jump_Cycle-7_0
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 541
+        width: 509
+        height: 1365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 181.20587, y: -647.0664}
+        - {x: 212.32324, y: -622.8672}
+        - {x: 210.01825, y: -227.61328}
+        - {x: 162.76596, y: -28.257812}
+        - {x: 154.84567, y: 37.29593}
+        - {x: 174.29091, y: 20.140625}
+        - {x: 228.45816, y: 20.140625}
+        - {x: 254.5, y: 36.273438}
+        - {x: 254.5, y: 106.56641}
+        - {x: 246.89807, y: 111.17578}
+        - {x: 170.83342, y: 111.17578}
+        - {x: 154.6985, y: 80.0625}
+        - {x: 154.6985, y: 38.514103}
+        - {x: 142.02106, y: 143.4414}
+        - {x: 242.2881, y: 202.21094}
+        - {x: 254.5, y: 229.86719}
+        - {x: 254.5, y: 269.04688}
+        - {x: 177.7484, y: 300.16016}
+        - {x: 89.0063, y: 284.02734}
+        - {x: 72.871376, y: 353.16797}
+        - {x: 55.583954, y: 410.78516}
+        - {x: 77.48135, y: 673.51953}
+        - {x: 25.619091, y: 682.5}
+        - {x: -128.8152, y: 682.5}
+        - {x: -136.88266, y: 672.3672}
+        - {x: -184.13495, y: 526.01953}
+        - {x: -159.93256, y: 462.64062}
+        - {x: -252.13214, y: 260.98047}
+        - {x: -254.43712, y: 241.39062}
+        - {x: -254.43712, y: 105.41406}
+        - {x: -245.21716, y: 55.86328}
+        - {x: -156.47508, y: -239.13672}
+        - {x: -195.6599, y: -440.79688}
+        - {x: -226.77725, y: -635.54297}
+        - {x: -193.3549, y: -670.1133}
+        - {x: -168.00002, y: -672.41797}
+        - {x: -11.26074, y: -682.5}
+        - {x: 76.32886, y: -682.5}
+      - - {x: 225.00067, y: 157.26953}
+        - {x: 228.45816, y: 161.8789}
+        - {x: 228.45816, y: 166.48828}
+        - {x: 225.00067, y: 166.48828}
+        - {x: 218.08571, y: 163.03125}
+        - {x: 218.08571, y: 158.42188}
+        - {x: 220.3907, y: 156.11719}
+      - - {x: 188.12085, y: 136.52734}
+        - {x: 188.12085, y: 139.98438}
+        - {x: 185.81586, y: 145.7461}
+        - {x: 176.5959, y: 145.7461}
+        - {x: 175.4434, y: 143.4414}
+        - {x: 175.4434, y: 136.52734}
+        - {x: 177.7484, y: 134.22266}
+        - {x: 181.20587, y: 133.07031}
+        - {x: 184.66336, y: 133.07031}
+      physicsShape: []
+      tessellationDetail: 0.04
+      bones: []
+      spriteID: 9ee2ef89d6baaecf0800000000000000
+      internalID: -222176744394838295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Jump_Cycle-7_1
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1245
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f70a72bf9674b90a9798f45c033b5d
+      internalID: -1528137161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Jump_Cycle-7_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 887
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2674de1a48ad4d5aa154cded0d35794
+      internalID: -734202716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak_Jump_Cycle-7_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 667
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e20a039ddf4d2d892efd072a180cf
+      internalID: -301670262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 261.04004, y: -609.58984}
+      - {x: 296.7674, y: -588.84766}
+      - {x: 303.68237, y: -422.91016}
+      - {x: 293.3099, y: -174.0039}
+      - {x: 214.94026, y: 135.97656}
+      - {x: 234.53267, y: 193.59375}
+      - {x: 325.57977, y: 246.60156}
+      - {x: 342.8672, y: 291.54297}
+      - {x: 342.8672, y: 307.67578}
+      - {x: 316.3598, y: 322.65625}
+      - {x: 263.34503, y: 333.02734}
+      - {x: 173.45045, y: 324.96094}
+      - {x: 159.62051, y: 396.40625}
+      - {x: 148.09557, y: 526.6211}
+      - {x: 160.77301, y: 715.60547}
+      - {x: 136.57062, y: 728.28125}
+      - {x: -48.981026, y: 728.28125}
+      - {x: -54.7435, y: 725.97656}
+      - {x: -98.5383, y: 549.66797}
+      - {x: -77.793396, y: 466.69922}
+      - {x: -169.99297, y: 288.08594}
+      - {x: -169.99297, y: 169.39453}
+      - {x: -166.53549, y: 102.55859}
+      - {x: -90.47083, y: -100.25391}
+      - {x: -72.03092, y: -197.05078}
+      - {x: -144.63809, y: -592.3047}
+      - {x: -110.06325, y: -630.33203}
+      - {x: 127.35067, y: -638.39844}
+      - {x: 129.65565, y: -641.85547}
+      - {x: 164.2305, y: -641.85547}
+    - - {x: 309.44482, y: 200.50781}
+      - {x: 314.0548, y: 205.11719}
+      - {x: 314.0548, y: 208.57422}
+      - {x: 310.59732, y: 209.72656}
+      - {x: 303.68237, y: 206.26953}
+      - {x: 303.68237, y: 201.66016}
+      - {x: 305.98734, y: 199.35547}
+    - - {x: 273.7175, y: 180.91797}
+      - {x: 272.565, y: 186.67969}
+      - {x: 269.1075, y: 188.98438}
+      - {x: 262.19254, y: 188.98438}
+      - {x: 261.04004, y: 186.67969}
+      - {x: 261.04004, y: 179.76562}
+      - {x: 263.34503, y: 177.46094}
+      - {x: 266.80252, y: 176.3086}
+      - {x: 270.26, y: 176.3086}
+    - - {x: 319.8173, y: 64.53125}
+      - {x: 353.23962, y: 85.27344}
+      - {x: 353.23962, y: 125.60547}
+      - {x: 342.8672, y: 154.41406}
+      - {x: 255.27759, y: 154.41406}
+      - {x: 240.29515, y: 112.92969}
+      - {x: 240.29515, y: 86.42578}
+      - {x: 259.88757, y: 63.378906}
+      - {x: 304.83484, y: 63.378906}
+    - - {x: 390.11948, y: -290.39062}
+      - {x: 388.96698, y: -286.9336}
+      - {x: 383.2045, y: -286.9336}
+      - {x: 379.747, y: -290.39062}
+      - {x: 379.747, y: -293.84766}
+      - {x: 382.052, y: -295}
+      - {x: 386.662, y: -295}
+    - - {x: -181.51791, y: -505.8789}
+      - {x: -182.67041, y: -502.42188}
+      - {x: -186.1279, y: -502.42188}
+      - {x: -196.50035, y: -504.72656}
+      - {x: -197.65285, y: -508.1836}
+      - {x: -197.65285, y: -512.79297}
+      - {x: -194.19536, y: -515.09766}
+      - {x: -190.73787, y: -515.09766}
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd647ddbd9d544727a27d44cce86ccc2
+    internalID: -1913315141
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Cloak_Jump_Cycle-7_0: -222176744394838295
+      Cloak_Jump_Cycle-7_1: -1528137161
+      Cloak_Jump_Cycle-7_2: -734202716
+      Cloak_Jump_Cycle-7_3: -301670262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
