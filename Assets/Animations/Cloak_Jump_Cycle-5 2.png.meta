@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: dba954de1598c4fe09df0d073c44378f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2820220446223344221
+    second: Cloak_Jump_Cycle-5 2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloak_Jump_Cycle-5 2_0
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 580
+        width: 630
+        height: 1586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 49.462418, y: -538.3496}
+        - {x: 176.23683, y: -403.52542}
+        - {x: 264.97894, y: -353.97464}
+        - {x: 276.50388, y: -302.11917}
+        - {x: 237.31906, y: -219.1504}
+        - {x: 315, y: 44.736313}
+        - {x: 315, y: 153.05663}
+        - {x: 299.55377, y: 170.34178}
+        - {x: 239.62404, y: 224.50194}
+        - {x: 175.08434, y: 240.63475}
+        - {x: 114.00212, y: 178.40819}
+        - {x: 88.64724, y: 240.63475}
+        - {x: 172.77936, y: 270.5957}
+        - {x: 238.47154, y: 343.19336}
+        - {x: 245.38652, y: 385.83008}
+        - {x: 194.67676, y: 405.41992}
+        - {x: 94.409706, y: 433.07617}
+        - {x: 29.870005, y: 552.9199}
+        - {x: 46.004932, y: 599.0137}
+        - {x: 58.682373, y: 762.6465}
+        - {x: 36.784973, y: 793}
+        - {x: -137.24173, y: 793}
+        - {x: -175.27405, y: 775.32227}
+        - {x: -198.32394, y: 567.9004}
+        - {x: -187.95149, y: 506.82617}
+        - {x: -291.67603, y: 336.2793}
+        - {x: -314.72592, y: 285.57617}
+        - {x: -314.72592, y: 209.52147}
+        - {x: -228.28882, y: 85.068344}
+        - {x: -264.01614, y: -133.87697}
+        - {x: -285.91354, y: -265.24417}
+        - {x: -260.55865, y: -332.0801}
+        - {x: -292.82852, y: -523.36914}
+        - {x: -272.08362, y: -582.1387}
+        - {x: -191.40898, y: -602.88086}
+        - {x: -141.85172, y: -602.88086}
+      - - {x: 216.57416, y: 276.35742}
+        - {x: 216.57416, y: 287.88086}
+        - {x: 213.11667, y: 289.0332}
+        - {x: 209.65918, y: 289.0332}
+        - {x: 205.04921, y: 284.42383}
+        - {x: 205.04921, y: 278.6621}
+        - {x: 209.65918, y: 275.20508}
+        - {x: 215.42166, y: 275.20508}
+      - - {x: 175.08434, y: 255.61522}
+        - {x: 175.08434, y: 262.5293}
+        - {x: 172.77936, y: 267.13867}
+        - {x: 163.55939, y: 267.13867}
+        - {x: 161.25441, y: 262.5293}
+        - {x: 161.25441, y: 256.76758}
+        - {x: 164.71188, y: 254.46288}
+        - {x: 171.62686, y: 254.46288}
+      - - {x: 154.33943, y: -790.7129}
+        - {x: 152.03444, y: -788.4082}
+        - {x: 149.72946, y: -788.4082}
+        - {x: 147.42447, y: -790.7129}
+        - {x: 147.42447, y: -793}
+        - {x: 154.33943, y: -793}
+      physicsShape: []
+      tessellationDetail: 0.04
+      bones: []
+      spriteID: d52af6dbd8f632720800000000000000
+      internalID: 2820220446223344221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c0f3cb78ea8c54736b58039b674637db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Cloak_Jump_Cycle-5 2_0: 2820220446223344221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

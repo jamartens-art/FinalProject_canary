@@ -44,11 +44,56 @@ TagManager:
   - name: Background
     uniqueID: 1411474381
     locked: 0
+  - name: Backgroundcity-1
+    uniqueID: 3182324729
+    locked: 0
+  - name: Backgroundcity-7
+    uniqueID: 4268440747
+    locked: 0
+  - name: Backgroundcity-6
+    uniqueID: 3520593499
+    locked: 0
+  - name: Backgroundcity-5
+    uniqueID: 276706851
+    locked: 0
+  - name: Backgroundcity-4
+    uniqueID: 3672851599
+    locked: 0
+  - name: Backgroundcity-3
+    uniqueID: 2167225667
+    locked: 0
+  - name: Backgroundcity-2
+    uniqueID: 1031891759
+    locked: 0
   - name: Character
     uniqueID: 716778549
     locked: 0
   - name: Foreground
     uniqueID: 592808319
+    locked: 0
+  - name: TempleBG
+    uniqueID: 3086645253
+    locked: 0
+  - name: Pillars(Back)
+    uniqueID: 3090722081
+    locked: 0
+  - name: Pillars(Fore)
+    uniqueID: 880137765
+    locked: 0
+  - name: Rubble
+    uniqueID: 1416156807
+    locked: 0
+  - name: Statue
+    uniqueID: 488401741
+    locked: 0
+  - name: Arch
+    uniqueID: 4252799275
+    locked: 0
+  - name: TempleForeground
+    uniqueID: 2318186713
+    locked: 0
+  - name: TempleCharacter
+    uniqueID: 4193300873
     locked: 0
   m_RenderingLayers:
   - Default
