@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5ffe1f68157de48988ec9be2899dee4a
+guid: 17d6618c034cb4d739e30ed2531a3170
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3425467484368711180
-    second: Backgroundcity-3_0
+      213: 5213229242370633579
+    second: Door_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,52 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Backgroundcity-3_0
+      name: Door_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2848
-        height: 4099
+        width: 1640
+        height: 2360
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 632.1434, y: -542.7539}
+        - {x: 533.0288, y: -422.91016}
+        - {x: 433.91428, y: 719.0625}
+        - {x: 465.03162, y: 755.9375}
+        - {x: 403.9494, y: 875.78125}
+        - {x: -250.6676, y: 875.78125}
+        - {x: -325.57977, y: 837.7539}
+        - {x: -368.22208, y: 768.6133}
+        - {x: -352.08713, y: 25.351562}
+        - {x: -392.42444, y: -34.570312}
+        - {x: -415.47433, y: -387.1875}
+        - {x: -426.9993, y: -404.47266}
+        - {x: -501.91144, y: -498.96484}
+        - {x: -564.1462, y: -578.47656}
+        - {x: -564.1462, y: -648.76953}
+        - {x: -552.6212, y: -666.0547}
+        - {x: 632.1434, y: -666.0547}
+      - - {x: -354.39212, y: -63.378906}
+        - {x: -354.39212, y: -57.617188}
+        - {x: -356.6971, y: -51.85547}
+        - {x: -356.6971, y: -49.55078}
+        - {x: -355.54462, y: -34.570312}
+        - {x: -345.17218, y: -17.285156}
+        - {x: -342.8672, y: -10.371094}
+        - {x: -344.01968, y: -40.33203}
+        - {x: -345.17218, y: -41.484375}
+        - {x: -345.17218, y: -53.007812}
+        - {x: -352.08713, y: -62.226562}
+        - {x: -352.92535, y: -65.578835}
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0.04
       bones: []
-      spriteID: c0ea2733784b98f20800000000000000
-      internalID: 3425467484368711180
+      spriteID: b6f2e24006c195840800000000000000
+      internalID: 5213229242370633579
       vertices: []
       indices: 
       edges: []
@@ -125,7 +154,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: daef7a9578b6942bf911a9fdaa9bb539
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +164,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Backgroundcity-3_0: 3425467484368711180
+      Door_0: 5213229242370633579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

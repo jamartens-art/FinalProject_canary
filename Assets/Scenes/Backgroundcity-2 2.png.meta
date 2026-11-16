@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c18b1db54b5ae4129bca331e16af6895
+guid: b3bc48e80229e4d00ac58e0de773d80c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1281399423770314170
-    second: Backgroundcity-2_0
+      213: 6420911399983719282
+    second: Backgroundcity-2 2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Backgroundcity-2_0
+      name: Backgroundcity-2 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2848
-        height: 4099
+        x: 1074
+        y: 103
+        width: 1223
+        height: 2074
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 551.6331, y: -1022.82404}
+        - {x: 567.64435, y: -998.80646}
+        - {x: 597.66547, y: -736.61456}
+        - {x: 611.5, y: 132.02118}
+        - {x: 611.5, y: 1037}
+        - {x: 431.5488, y: 1037}
+        - {x: 141.34499, y: 1012.6657}
+        - {x: -377.01904, y: 332.16766}
+        - {x: -385.02466, y: 296.1413}
+        - {x: -361.00778, y: 242.10175}
+        - {x: -244.92627, y: 308.1501}
+        - {x: -242.92487, y: -70.12676}
+        - {x: -334.98953, y: -282.28204}
+        - {x: -593.17084, y: -546.4754}
+        - {x: -611.1835, y: -596.512}
+        - {x: -611.1835, y: -940.764}
+        - {x: -587.1666, y: -1036.8342}
+        - {x: 491.59094, y: -1036.8342}
+      - - {x: -375.01764, y: 338.17206}
+        - {x: -373.01624, y: 346.17792}
+        - {x: -377.01904, y: 350.18085}
+        - {x: -383.02325, y: 348.17938}
+        - {x: -385.02466, y: 340.17352}
+        - {x: -381.02185, y: 336.1706}
+      - - {x: -318.97827, y: 240.10028}
+        - {x: -318.97827, y: 246.10468}
+        - {x: -324.98248, y: 248.10614}
+        - {x: -328.98532, y: 244.10321}
+        - {x: -324.98248, y: 238.09882}
+      - - {x: -264.94034, y: 89.990425}
+        - {x: -264.94034, y: 93.993355}
+        - {x: -270.94455, y: 97.996284}
+        - {x: -276.94876, y: 97.996284}
+        - {x: -276.94876, y: 85.987495}
+        - {x: -266.94174, y: 85.987495}
+      - - {x: -282.95297, y: 37.95234}
+        - {x: -282.95297, y: 43.956734}
+        - {x: -286.95578, y: 47.959663}
+        - {x: -292.96002, y: 45.9582}
+        - {x: -292.96002, y: 39.953804}
+        - {x: -288.95718, y: 35.950874}
+      - - {x: -272.94595, y: -42.106255}
+        - {x: -272.94595, y: -34.100395}
+        - {x: -276.94876, y: -30.097467}
+        - {x: -282.95297, y: -32.09893}
+        - {x: -282.95297, y: -40.10479}
+        - {x: -278.95016, y: -44.10772}
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0.04
       bones: []
-      spriteID: ab5483d9cf178c110800000000000000
-      internalID: 1281399423770314170
+      spriteID: 273294a16e8ab1950800000000000000
+      internalID: 6420911399983719282
       vertices: []
       indices: 
       edges: []
@@ -125,7 +172,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c4636132c77b046c5bc6f67121cec4e6
     internalID: 0
     vertices: []
     indices: 
@@ -133,9 +180,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Backgroundcity-2_0: 1281399423770314170
+      Backgroundcity-2 2_0: 6420911399983719282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
