@@ -243,7 +243,7 @@ GameObject:
   - component: {fileID: 8600341839774454439}
   m_Layer: 3
   m_Name: Character
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -694,8 +694,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   groundCheck: {fileID: 8840272390288735166}
-  runSpeed: 20
-  jumpForce: 10
+  runSpeed: 30.4
+  jumpForce: 30
   fallMultiplier: 2.5
   lowJumpMultiplier: 3
   movementSmoothing: 0.05
